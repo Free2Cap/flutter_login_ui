@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "563620499827",
+    "project_id": "flutter-login-ui-fe2d6",
+    "storage_bucket": "flutter-login-ui-fe2d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563620499827:android:a8283c08335aaca1e3f506",
+        "android_client_info": {
+          "package_name": "net.fluttertutorial.flutter_login_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563620499827-ms8p8sv6ej2v8ccnc4jg2cfh8a6r8b4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBROj-c6Zv38DZPGBjvpEUHJ-LI7EEKngI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563620499827-ms8p8sv6ej2v8ccnc4jg2cfh8a6r8b4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
